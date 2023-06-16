@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn==0.23.2
+nltk==3.5
+bs4
+BeautifulSoup
+sqlite3
+PIL
